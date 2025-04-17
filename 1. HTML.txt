@@ -1,4 +1,4 @@
-1. HTML:   
+//1. HTML:   
 <!DOCTYPE html>   
 <html lang="en">   
 <head>    
@@ -29,7 +29,7 @@ Algorithm</button>
 </body>   
 </html>   
    
-2. CSS:   
+//2. CSS:   
 body {     font-family: Arial, sans-serif;     text-align: center;      
 margin: 20px;   
 }   
@@ -68,7 +68,7 @@ canvas {     border: 1px solid black;     margin-top: 20px;     width: 100%;    
 color: #fff;     width: 60%;     margin: 
 10px auto;     border-radius: 5px;   
 }   
-3. JAVASCRIPT:   
+//3. JAVASCRIPT:   
 function runBankersAlgorithm() {     let 
 allocation =   
 parseInput(document.getElementById("allocationInput").value);     let max = parseInput(document.getElementById("maxInput").value);     let  
